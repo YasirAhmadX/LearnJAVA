@@ -1,6 +1,6 @@
 public class DataTypes{
 	public static void main(String[] args){
-		// Primitive Data Types
+		//*Primitive Data Types
 		//byte  : 1   [-128 to 127]
 		//short : 2		
 		//int   : 4		
