@@ -11,6 +11,8 @@ public class HandleExceptions{
 			System.out.println("a/b = "+a/b);
 		}catch(Exception ArithmeticException){
 			System.out.println("Cannot divide by 0");
+		}finally{
+			System.out.println("Adios!!!");
 		}
 	}
 }
