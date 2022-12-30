@@ -1,6 +1,6 @@
 //Polymorphism
 
-//1.) compile time polymorphism >> function overloading
+//1.) compile time polymorphism >> method overloading
 //many function with same name but different return types, or parameters or number of parameters
 class Student{
 	String name;
