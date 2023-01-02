@@ -1,6 +1,6 @@
 package implementations;
 import java.util.Scanner;
-import java.util.Arrays;
+import java.util.Arrays; 
 public class InsertionSort {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
